@@ -10,11 +10,11 @@ RUN apt-get update && \
 
 COPY package.json .
 
-RUN npm install && ls && npm install -g pm2 && pm2 start app.js && pm2 save
+RUN npm install 
 
 COPY . .
 
-EXPOSE 5000
+EXPOSE 50000
 
 CMD ["node", "index.js"]
 
