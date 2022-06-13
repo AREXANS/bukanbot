@@ -3,6 +3,7 @@ FROM node:lts-buster
 RUN apt-get update && \
   apt-get install -y \
   ffmpeg \
+  pm2 \
   imagemagick \
   webp && \
   apt-get upgrade -y && \
@@ -16,5 +17,5 @@ COPY . .
 
 EXPOSE 5000
 
-CMD ["pm2 start index.js", "pm2 save", "pm2 monit"]
+CMD ["npm i -g pm2", "pm2 start index.js", "pm2 save", "pm2 monit"]
 
