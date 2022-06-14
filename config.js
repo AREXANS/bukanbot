@@ -4,9 +4,7 @@ global.mods = JSON.parse(fs.readFileSync('./src/moderator.json')) // Want some h
 global.thumbt = global.img
 global.fsx = 999999999999
 global.kontak = [
-['6282146092695', 'AhmdLui', 'Kocak Gaming', 'ayonimasangat@gmail.com', true],
-['6289655134392', 'Rika❤️', 'Kocak Gaming', 'Nothing!', true]
-
+['6289518030035', '*𝙰𝚛𝚎𝚡𝚊𝚗𝚜 ×፝֟͜×*', 'Ar~', 'arexans@gmail.com', true],
 ]
 global.APIs = { // API Prefix
   // name: 'https://website'
@@ -27,33 +25,33 @@ global.APIKeys = { // APIKey Here
   // 'https://website': 'apikey'
   'https://api.neoxr.eu.org': 'yntkts',
   'https://api.xteam.xyz': 'apivproject',
-  'https://melcanz.com': 'Apikeys',
+  'https://melcanz.com': 'manHkmst',
   'https://api.lolhuman.xyz': 'Papah-Chan',
   'http://zekais-api.herokuapp.com': 'zekais',
   'https://zahirr-web.herokuapp.com': 'zahirgans',
   'https://api.zeks.me': 'apivinz',
   'https://pencarikode.xyz': 'pais',
   'https://hardianto.xyz': 'hardianto',
-  'https://leyscoders-api.herokuapp.com': 'dappakntlll'
+  'https://leyscoders-api.herokuapp.com': 'MIMINGANZ'
 }
 
 global.WM = '𝑴𝒚𝑩𝒐𝒕-𝑴𝒖𝒍𝒕𝒊 𝑫𝒆𝒗𝒊𝒄𝒆 𝑩𝒚 Kami-sama'
-global.linkgc = 'https://chat.whatsapp.com/CnQV9lNcHuIENb8SQ9CaYP'
-global.linkig = 'https://www.instagram.com/ahmdlui'
+global.linkgc = 'https://chat.whatsapp.com/HAuQGhEBwqFK8CzrrYOwLq'
+global.linkig = 'https://www.instagram.com/arxans_'
 global.deslink = ''
 global.titlink = 'Folllow me on Instagram'
-global.bodlink = '@ahmdlui'
+global.bodlink = '@arxans_'
 
-global.wait = '_*𝐬𝐞𝐝𝐚𝐧𝐠 𝐝𝐢 𝐩𝐫𝐨𝐬𝐞𝐬 ...*_'
-global.eror = '_*мααƒ ѕєяνєя тι∂αк ѕтαвιℓ..*_'
+global.wait = '*🇮🇩: TUNGGU...*\n*🏴󠁧󠁢󠁥󠁮󠁧󠁿: WAIT...*\n*🇯🇵: 待つ...**_'
+global.eror = '*🇮🇩: MAAF, SERVER ERROR*\n*🏴󠁧󠁢󠁥󠁮󠁧󠁿: SORRY, SERVER ERROR*\n*🇯🇵: 申し訳ありませんがサーバーエラー*'
 
 //========Url Template Buttons==========//
 global.dtu = '𝑭𝒐𝒍𝒍𝒐𝒘'
-global.urlnya = "https://www.instagram.com/ahmdlui"
+global.urlnya = "https://www.instagram.com/arxans_"
 
 //============= callButtons ============//
 global.dtc = '𝒄𝒂𝒍𝒍 𝒐𝒘𝒏𝒆𝒓'
-global.phn = '+62 895-3362-82144'
+global.phn = '+62 895-1803-0035'
 
 //========== Tampilan Bot =============//
 global.sa = '╭─'
